@@ -26,7 +26,7 @@ settings['redis'] = {
 }
 
 # 第三方应用 需要的key
-settings['component_app_id'] = 'wx98aa120730a78275'
-settings['component_app_secret'] = '0c79e1fa963cd80cc0be99b20a18faeb'
-settings['component_encodingAESKey'] = 'YhwSCu0CGkfeaHaAE9XHXfxeX2P0r5skvlDEl1pVK2a'
-settings['component_token'] = 'c37f1cd03cb111e5a2be00163e004a1f'
+settings['component_app_id'] = '1'
+settings['component_app_secret'] = '1'
+settings['component_encodingAESKey'] = '1'
+settings['component_token'] = '1'
